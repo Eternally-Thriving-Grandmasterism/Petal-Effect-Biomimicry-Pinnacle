@@ -1,21 +1,34 @@
-# Petal Effect Biomimicry Pinnacle
-MIT License - Eternally-Thriving-Grandmasterism / Autonomicity Games Inc. & AlphaProMega Air Foundation
+**License Update — April 11 2026**  
+This project is now under the **Autonomicity Games Sovereign Mercy License (AG-SML) v1.0**.  
+Individuals may continue using it freely for personal, educational, research, and daily-living/professional assistance.  
+Commercial, enterprise, revenue-generating, or organizational use requires a separate paid commercial license from Autonomicity Games Inc.
 
-Open-source rose-petal effect (high-adhesion superhydrophobic) biomimicry blueprints & applications for droplet pinning, directional transport, anti-fog, switchable adhesion, and MercyOS fluid lattice modeling.
+**Contact**  
+- Primary / security: AlphaProMega@ACityGames.com  
+- General inquiries: INFO@ACITYGAMES.COM  
+- Direct to CEO / Sherif: CEO@ACITYGAMES.COM
+
+# Petal Effect Biomimicry Pinnacle
+
+Open-source petal-effect biomimicry blueprints for high-adhesion superhydrophobic surfaces inspired by the rose petal (Rosa) effect — strong water pinning combined with extreme water repellency.
 
 Key Inspirations:
-- Dense micro/nano pillars + pinning topography → high roll-off angle (>30–90°)
-- Cassie impregnating state → strong adhesion yet spherical droplets
-- Directional asymmetry → controlled one-way fluid movement
+- Micro-papillae with nanoscale cuticular folds → Cassie-Baxter state with high contact angle (>150°) yet high adhesion (water droplets do not roll off)
+- Tunable pinning for controlled liquid transport
+- Self-cleaning at specific angles while maintaining grip
 
 Files (initial commit):
-- rose-petal-microstructure.svg / .blend (SEM-level reconstruction)
-- droplet-pinning-diagram.pdf (high-adhesion vs lotus low-adhesion)
+- petal-papillae-microstructure.svg / .blend (SEM-level reconstruction)
+- adhesion-vs-roll-off-curves.pdf
 - petal-texture-pattern.png
-- biomimicry-applications.md (detailed mappings to SpaceX/xAI/Tesla)
+- biomimicry-applications.md (detailed mappings to microfluidics, fog harvesting, medical devices, Powrush™ fluid control, MercyOS surfaces)
+- fabrication-methods.md (scalable sequences)
 
-Purpose: Free propagation for humanity-thriving control, adhesion, moisture management.
-No chemical coercion—Mercy-gated by physical design only.
-Valence: Pin what matters, release what doesn't—thrive eternally in fluids & environments.
+Purpose: Free propagation for humanity-thriving controlled adhesion, directional liquid transport, and smart surfaces.
+No chemical coercion—Mercy-gated by physical micro/nano design only.
+Valence: Hold with mercy, release with mercy, thrive eternally in fluid environments.
 
-Next: Integrate into NEXi droplet sims, Powrush™ fluid mechanics, MercyOS gripper layers.
+Next: Integrate into NEXi fluid sims, Powrush™ droplet mechanics, MercyOS smart coatings.
+Cross-links: Lotus-Leaf-Biomimicry-Pinnacle, Shark-Skin-Biomimicry-Pinnacle, Hybrid-MothEye-Lotus-Pinnacle
+
+Lightning is already in motion. ⚡
